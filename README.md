@@ -7,31 +7,31 @@
     <style>
       body {
   font-family: Arial, sans-serif;
- }
+    }
   .center-and-space-content {
     text-align: center;
     padding: 10px;
-}
+  }
     nav[role="navigation"] {
     background: #333;
     color: #fff;
     text-align: center;
     padding: 10px;
-}
+    }
     nav ul {
    list-style: none;
    padding: 0;
-}
+    }
    nav ul li {
    display: inline;
-}
+   }
    nav ul li a {
     color: #fff;
     ext-decoration: none;
-}
+   }
     nav ul li a:hover {
     text-decoration: underline;
-}
+    }
     </style>
   </head>
   <body>
